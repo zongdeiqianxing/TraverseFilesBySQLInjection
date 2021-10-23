@@ -1,5 +1,5 @@
 # FileReader
-基于sqlmap的利用sql注入漏洞遍历文件是否存在的脚本
+基于sqlmap的利用sql注入漏洞遍历文件是否存在的脚本  
 A script based on sqlmap that uses sql injection vulnerabilities to traverse the existence of a file
 
 ## usage
